@@ -11,7 +11,7 @@ Repositório dedicado à documentação técnica e resolução dos desafios do *
 
 Abaixo estão os links para a resolução detalhada e os comandos utilizados em cada nível:
 
-- [ ] [Level 00 ➔ Level 01](writeups/level00-01.md)
+- [x] [Level 00 ➔ Level 01](writeups/level00-01.md)
 - [ ] Level 01 ➔ Level 02
 - [ ] Level 02 ➔ Level 03
 - [ ] Level 03 ➔ Level 04
