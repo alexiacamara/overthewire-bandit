@@ -18,9 +18,10 @@ Conexão ao `bandit1` efetuada com sucesso utilizando a senha obtida no nível a
 
 ```bash
 ssh bandit1@bandit.labs.overthewire.org -p 2220
-<img width="1107" height="617" alt="646950410-7af99bac-ced4-46c3-ab5d-ef9a5f4e6217" src="https://github.com/user-attachments/assets/69830b00-6110-4a8c-b4df-d3a5c8728d12" />
 
 ```
+<img width="1107" height="617" alt="646950410-7af99bac-ced4-46c3-ab5d-ef9a5f4e6217" src="https://github.com/user-attachments/assets/69830b00-6110-4a8c-b4df-d3a5c8728d12" />
+
 
 ### 2. Listagem e Leitura
 Listei os arquivos presentes na home com o `ls` e mostrei o conteúdo do arquivo `-` usando `cat ./-`
