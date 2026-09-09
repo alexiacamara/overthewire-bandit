@@ -21,6 +21,7 @@ Conexão efetuada ao nível atual utilizando SSH na porta `2220`:
 ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 ```
+<img width="802" height="627" alt="Captura de tela 2026-09-09 172224" src="https://github.com/user-attachments/assets/e0719e0e-a75e-45bd-9587-ec025f679b99" />
 
 
 ---
