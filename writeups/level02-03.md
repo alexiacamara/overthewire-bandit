@@ -6,18 +6,18 @@ A senha para o próximo nível está armazenada em um arquivo chamado `--spaces 
 
 
 ## 🛠️ Comandos & Conceitos Utilizados
+
 * `ls`: Lista os arquivos presentes no diretório atual.
 * `cat`: Exibe o conteúdo de um arquivo de texto diretamente no terminal.
 * **Caminhos Relativos (`./`) e Escapamento de Caracteres**: Uso do prefixo `./` para impedir que o terminal interprete nomes de arquivos iniciados em hífens (`--`) como opções/parâmetros de comandos, combinado com o uso de aspas `""` para que o shell entenda espaços como parte de um único nome de arquivo.
-<br>
 
   
----
+--- <br>
 
 
-## 📝 Passo a Passo
+### 📝 Passo a Passo
 
-### 1. Conexão / Acesso
+## 1. Conexão / Acesso
 Conexão efetuada ao nível atual utilizando SSH na porta `2220`:
 
 ```bash
