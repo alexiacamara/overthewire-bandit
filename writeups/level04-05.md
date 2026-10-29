@@ -26,7 +26,7 @@ O objetivo deste nível é encontrar, dentro da pasta `inhere`, o único arquivo
 Conexão efetuada ao nível atual utilizando SSH na porta `2220`:
 
 ``` bash 
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
 <img width="1111" height="681" alt="image" src="https://github.com/user-attachments/assets/81857014-7887-469c-8011-7dbeed703d69" />
