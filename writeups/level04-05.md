@@ -51,13 +51,12 @@ ssh bandit3@bandit.labs.overthewire.org -p 2220
     Combinando o `file` com o `grep`, consegui filtrar diretamente o arquivo que possui o formato de texto legível. O asterisco (*) no terminal do Linux funciona como um caractere wildcard. O nome técnico dele é globbing. Serve para dizer ao terminal: ***"Pegue tudo o que está dentro da pasta atual (./) e aplique o comando a todos os itens de uma só vez."***
 
 
-Então todo o comando ficou desta forma: 
-```bash
-file ./* | grep "text"
-```
-<br>
-
-Com isso o arquivo de texto foi encontrado: <br>
+    Então todo o comando ficou desta forma:
+    ```bash
+    file ./* | grep "text"
+    ```
+    <br>
++ Com isso o arquivo de texto foi encontrado.
 
 <img width="441" height="116" alt="image" src="https://github.com/user-attachments/assets/7b07a702-2a56-4d4c-9427-e90433497cbb" /> <br><br>
 
