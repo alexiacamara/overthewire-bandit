@@ -15,7 +15,7 @@ Abaixo estão os links para a resolução detalhada e os comandos utilizados em 
 - [x] [Level 01 ➔ Level 02](writeups/level01-02.md)
 - [x] [Level 02 ➔ Level 03](writeups/level02-03.md)
 - [x] [Level 03 ➔ Level 04](writeups/level03-04.md)
-- [ ] Level 04 ➔ Level 05
+- [x] Level 04 ➔ Level 05
 ---
 
 ## 🛠️ Tecnologias & Ambiente de Estudo
