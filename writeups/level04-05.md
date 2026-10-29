@@ -37,7 +37,7 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ### 2. Listagem e Leitura
 
 + Listei os arquivos presentes com o `ls`, depois usei o `cd` para abrir o diretório. <br>
-<img width="256" height="87" alt="image" src="https://github.com/user-attachments/assets/d3973063-1b49-4d60-91bc-f5567a82363d" />
+    <img width="256" height="87" alt="image" src="https://github.com/user-attachments/assets/d3973063-1b49-4d60-91bc-f5567a82363d" />
 <br>
 
 + Usei o comando `pwd` para confirmar se estava no diretório certo. <br>
